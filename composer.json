@@ -1,4 +1,12 @@
 {
+    "name": "jefferson-lima/autowired-mock",
+    "description": "This projects provides a simple @AutowiredMock annotation to make easier creating mocks with Mockery",
+    "authors": [
+        {
+            "name": "Jefferson Lima",
+            "email": "jefferson.jal@gmail.com"
+        }
+    ],
     "license": "MIT",
     "require": {
         "doctrine/annotations": "^1.10",
