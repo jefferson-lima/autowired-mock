@@ -6,12 +6,12 @@ This projects provides a simple `@AutowiredMock` annotation to make easier creat
 
 ```
 composer require jefferson-lima/autowired-mock
-``
+```
 
 ## Usage
 
 In your test class, include the `AutowiredMockTrait`;
-`
+
 ```
 use AutowiredMockTrait;
 ``` 
