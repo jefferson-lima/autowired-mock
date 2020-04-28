@@ -2,10 +2,16 @@
 
 This projects provides a simple `@AutowiredMock` annotation to make easier creating mocks with [Mockery](https://github.com/mockery/mockery)
 
+## Installation
+
+```
+composer require jefferson-lima/autowired-mock
+``
+
 ## Usage
 
 In your test class, include the `AutowiredMockTrait`;
-
+`
 ```
 use AutowiredMockTrait;
 ``` 
